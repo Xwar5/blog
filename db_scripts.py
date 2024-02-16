@@ -1,6 +1,6 @@
 import sqlite3
 
-db_name = "blog.db"
+db_name = "blog.db" 
 connection = None
 cursor = None
 

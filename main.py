@@ -6,7 +6,7 @@ app.config["SECRET_KEY"] = stg.SECRET_KEY
 
 @app.route("/")
 def index():
-    url = url_for("static", filename="templates/index.html" )
+    url = url_for("static", filename="templates/index.html")
     return redirect(url)
 
 
