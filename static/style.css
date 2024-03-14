@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue ;
+    font-family: sans-serif;
+}
+
+.post-image{
+    float: left;
+    border: 3px dashed black;
+    margin-right: 10px;
+}
+
+.category-header{
+    font-size: 60px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.post-input{
+    font-size: large;
+}
